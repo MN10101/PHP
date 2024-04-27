@@ -45,3 +45,6 @@ Simply run the application, and the digital clock will start displaying the curr
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details
 
 
+![1](https://github.com/MN10101/PHP/assets/78208459/4575ed14-100a-4ebb-9799-8f739918507d)
+
+![2](https://github.com/MN10101/PHP/assets/78208459/3c43daec-b792-478f-9fcf-a0f694c7f7fc)
