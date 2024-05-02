@@ -32,7 +32,7 @@ This is a simple web application that allows users to download videos from YouTu
 1. Install XAMPP on your computer.
 2. Place the video-downloader folder inside the htdocs folder of your XAMPP installation directory.
 3. Start the Apache server using the XAMPP control panel.
-4. Open your web browser and go to http://localhost/video-downloader/index.php.
+4. Open your web browser and go to http://localhost/index.php.
 
 Simply run the application, and the digital clock will start displaying the current time.
 
